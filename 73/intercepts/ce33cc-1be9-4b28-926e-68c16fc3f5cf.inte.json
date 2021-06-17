@@ -1,6 +1,6 @@
 {
     "Ar36": {
-        "error": 0.005468275902434352,
+        "error": 0.002897545265387653,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -9,14 +9,14 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "parabolic",
+        "fit": "linear",
         "fn": 340,
-        "include_baseline_error": true,
+        "include_baseline_error": false,
         "n": 340,
         "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 3.351040823510388
+        "value": 3.3516898738496925
     },
     "Ar37": {
         "error": 0.015725855106211616,
@@ -30,7 +30,7 @@
         },
         "fit": "linear",
         "fn": 338,
-        "include_baseline_error": true,
+        "include_baseline_error": false,
         "n": 340,
         "outlier_excluded": [
             9,
@@ -52,7 +52,7 @@
         },
         "fit": "linear",
         "fn": 339,
-        "include_baseline_error": true,
+        "include_baseline_error": false,
         "n": 340,
         "outlier_excluded": [
             309
@@ -62,7 +62,7 @@
         "value": 0.7137782720387702
     },
     "Ar39": {
-        "error": 0.015205951636084205,
+        "error": 0.008058764936957294,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -71,16 +71,16 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "parabolic",
+        "fit": "linear",
         "fn": 339,
-        "include_baseline_error": true,
+        "include_baseline_error": false,
         "n": 340,
         "outlier_excluded": [
             331
         ],
         "reviewed": true,
         "user_excluded": [],
-        "value": 0.007638071345089826
+        "value": 0.013100526525529024
     },
     "Ar40": {
         "error": 0.0983880668605814,
@@ -94,7 +94,7 @@
         },
         "fit": "parabolic",
         "fn": 331,
-        "include_baseline_error": true,
+        "include_baseline_error": false,
         "n": 340,
         "outlier_excluded": [
             33,
