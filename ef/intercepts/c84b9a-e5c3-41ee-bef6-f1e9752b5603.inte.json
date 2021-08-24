@@ -1,14 +1,25 @@
 {
     "Ar36": {
-        "error": 0.004636527981476612,
+        "error": 0.0028356865884173747,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
-            "iterations": 2,
-            "std_devs": 2
+            "iterations": 1,
+            "std_devs": 3,
+            "use_iqr_filtering": false,
+            "use_standard_deviation_filtering": false
         },
-        "fit": "Parabolic",
-        "value": 3.3708333734015006
+        "fit": "linear",
+        "fn": 338,
+        "include_baseline_error": false,
+        "n": 340,
+        "outlier_excluded": [
+            67,
+            211
+        ],
+        "reviewed": true,
+        "user_excluded": [],
+        "value": 3.3714149018389046
     },
     "Ar37": {
         "error": 0.018059372995425527,
@@ -22,7 +33,7 @@
         },
         "fit": "linear",
         "fn": 339,
-        "include_baseline_error": true,
+        "include_baseline_error": false,
         "n": 340,
         "outlier_excluded": [
             106
@@ -43,7 +54,7 @@
         },
         "fit": "linear",
         "fn": 338,
-        "include_baseline_error": true,
+        "include_baseline_error": false,
         "n": 340,
         "outlier_excluded": [
             8,
@@ -54,7 +65,7 @@
         "value": 0.7345913943060149
     },
     "Ar39": {
-        "error": 0.015087835632500716,
+        "error": 0.007974963144361117,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -63,16 +74,16 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "parabolic",
+        "fit": "linear",
         "fn": 339,
-        "include_baseline_error": true,
+        "include_baseline_error": false,
         "n": 340,
         "outlier_excluded": [
             296
         ],
         "reviewed": true,
         "user_excluded": [],
-        "value": 0.015622683118642969
+        "value": 0.01999656326325853
     },
     "Ar40": {
         "error": 0.12064281848198338,
@@ -86,7 +97,7 @@
         },
         "fit": "parabolic",
         "fn": 336,
-        "include_baseline_error": true,
+        "include_baseline_error": false,
         "n": 340,
         "outlier_excluded": [
             56,
