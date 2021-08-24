@@ -24,9 +24,122 @@
         "value": 1.0
     },
     "L2(CDD)": {
-        "error": 1e-20,
-        "fit": "default",
-        "references": [],
-        "value": 1.0
+        "error": 0.0006467010465048792,
+        "fit": "Weighted Mean",
+        "references": [
+            {
+                "exclude": "ok",
+                "record_id": "a-03-F-631",
+                "uuid": "c5e40566-8228-4889-b992-108fcd107221"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-03-F-632",
+                "uuid": "b9867c38-a2b5-47f7-ae5d-5fe96927891e"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-03-F-633",
+                "uuid": "0d1fc004-b248-4451-b240-23ba99afc835"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-03-F-634",
+                "uuid": "57684eef-17b8-4069-bc4f-00eb9ac3f3e7"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-03-F-635",
+                "uuid": "8652fd30-d700-40ae-b90b-d2be369f061f"
+            },
+            {
+                "exclude": "omit",
+                "record_id": "a-03-F-636",
+                "uuid": "136438b9-eca4-4c72-9eff-e8663d365a3f"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-03-F-637",
+                "uuid": "768f9253-92c6-4fbd-94ed-772f645d0c18"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-03-F-638",
+                "uuid": "658c6629-b1a1-4f7b-8120-9047334efa7e"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-03-F-652",
+                "uuid": "65bff52e-577d-4017-9576-ce6233402404"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-03-F-653",
+                "uuid": "0c19861d-fdc4-4885-a662-ad75db0fd5a1"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-03-F-654",
+                "uuid": "cf2ff24d-4833-463e-8574-44cedd6a246c"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-03-F-655",
+                "uuid": "f0ed5a56-ef2f-4353-9c40-6c458c958392"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-03-F-656",
+                "uuid": "a609318f-962e-454c-9679-bdb423239e76"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-03-F-657",
+                "uuid": "e1c2b6d5-a8fd-48f7-8cb5-c56a49f6bafa"
+            },
+            {
+                "exclude": "omit",
+                "record_id": "a-03-F-658",
+                "uuid": "90a26bc7-c9f4-4913-9afa-7ceb9711c2fc"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-03-F-659",
+                "uuid": "b1cff5a0-f646-408b-92fb-121594421d79"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-03-F-660",
+                "uuid": "3de9e260-af4c-4e14-bbb1-ed7a5ec20ade"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-03-F-661",
+                "uuid": "d8107a2d-f7de-4f48-8cb1-6a421620daf5"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-03-F-662",
+                "uuid": "57645216-62aa-463b-8926-101273eaf685"
+            },
+            {
+                "exclude": "omit",
+                "record_id": "a-03-F-663",
+                "uuid": "17be9519-7d86-4fe5-9c52-b726b9761544"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-03-F-664",
+                "uuid": "04ca37c9-5cbc-4c6f-ab70-a62a7dedef4d"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-03-F-665",
+                "uuid": "dc77c307-f9ed-4c6d-99da-84d9daae3d94"
+            }
+        ],
+        "reviewed": true,
+        "standard_ratio": 295.5,
+        "value": 0.9999964402560678
     }
 }
