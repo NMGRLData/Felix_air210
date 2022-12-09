@@ -1,6 +1,6 @@
 {
     "Ar36": {
-        "error": 0.00282475004735289,
+        "error": 0.005335661513342507,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -9,7 +9,7 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "linear",
+        "fit": "parabolic",
         "fn": 339,
         "include_baseline_error": false,
         "n": 340,
@@ -18,10 +18,10 @@
         ],
         "reviewed": true,
         "user_excluded": [],
-        "value": 3.347328292570408
+        "value": 3.348634270785314
     },
     "Ar37": {
-        "error": 0.017139580572139376,
+        "error": 0.017139580572139382,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -39,10 +39,10 @@
         ],
         "reviewed": true,
         "user_excluded": [],
-        "value": 0.08264379778528122
+        "value": 0.08264379778528129
     },
     "Ar38": {
-        "error": 0.0053249552787116555,
+        "error": 0.005324955278711657,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -61,10 +61,10 @@
         ],
         "reviewed": true,
         "user_excluded": [],
-        "value": 0.7285409307155286
+        "value": 0.7285409307155291
     },
     "Ar39": {
-        "error": 0.015193393939890453,
+        "error": 0.015193393939891197,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -82,10 +82,10 @@
         ],
         "reviewed": true,
         "user_excluded": [],
-        "value": -0.010521956524696065
+        "value": -0.01052195652469801
     },
     "Ar40": {
-        "error": 0.0918240893565972,
+        "error": 0.09182408935660064,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
@@ -105,6 +105,6 @@
         ],
         "reviewed": true,
         "user_excluded": [],
-        "value": 986.0163791989614
+        "value": 986.0163791989611
     }
 }
