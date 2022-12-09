@@ -10,14 +10,12 @@
             "use_standard_deviation_filtering": false
         },
         "fit": "parabolic",
-        "fn": 339,
+        "fn": 340,
         "include_baseline_error": false,
         "n": 340,
-        "outlier_excluded": [
-            42
-        ],
+        "outlier_excluded": null,
         "reviewed": true,
-        "user_excluded": [],
+        "user_excluded": null,
         "value": 3.3204869234589784
     },
     "Ar37": {
@@ -31,14 +29,12 @@
             "use_standard_deviation_filtering": false
         },
         "fit": "linear",
-        "fn": 339,
+        "fn": 340,
         "include_baseline_error": false,
         "n": 340,
-        "outlier_excluded": [
-            190
-        ],
+        "outlier_excluded": null,
         "reviewed": true,
-        "user_excluded": [],
+        "user_excluded": null,
         "value": 0.08253214907264197
     },
     "Ar38": {
@@ -52,14 +48,12 @@
             "use_standard_deviation_filtering": false
         },
         "fit": "linear",
-        "fn": 339,
+        "fn": 340,
         "include_baseline_error": false,
         "n": 340,
-        "outlier_excluded": [
-            207
-        ],
+        "outlier_excluded": null,
         "reviewed": true,
-        "user_excluded": [],
+        "user_excluded": null,
         "value": 0.7242747749737586
     },
     "Ar39": {
@@ -73,14 +67,12 @@
             "use_standard_deviation_filtering": false
         },
         "fit": "parabolic",
-        "fn": 339,
+        "fn": 340,
         "include_baseline_error": false,
         "n": 340,
-        "outlier_excluded": [
-            249
-        ],
+        "outlier_excluded": null,
         "reviewed": true,
-        "user_excluded": [],
+        "user_excluded": null,
         "value": 0.0034466611454265134
     },
     "Ar40": {
@@ -94,18 +86,12 @@
             "use_standard_deviation_filtering": false
         },
         "fit": "parabolic",
-        "fn": 335,
+        "fn": 340,
         "include_baseline_error": false,
         "n": 340,
-        "outlier_excluded": [
-            265,
-            266,
-            145,
-            338,
-            245
-        ],
+        "outlier_excluded": null,
         "reviewed": true,
-        "user_excluded": [],
+        "user_excluded": null,
         "value": 990.6878408135517
     }
 }
